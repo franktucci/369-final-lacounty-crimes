@@ -51,7 +51,7 @@ object DemographicTrends extends JFXApp {
         label = "Count"
       }
       root = new BarChart[String, Number](xAxis, yAxis) {
-        title = "Top 10 Descents by Crime Count"
+        title = "Top 5 Descents by Crime Count"
         data = Seq(XYChart.Series("Counts", dataForChart))
       }
     }
