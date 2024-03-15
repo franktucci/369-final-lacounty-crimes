@@ -4,7 +4,7 @@ import org.apache.log4j.Level
 import org.apache.spark.rdd.RDD
 import org.apache.spark.sql.{Row, SparkSession}
 
-object Main {
+object Dates {
 
   // DR_NO, -> 0
   // Date Rptd, -> 1
@@ -119,5 +119,4 @@ object Main {
     System.out.println("\nMost Dangerous Dates")
     mostDangerousDates.foreach(println)
   }
-  
 }

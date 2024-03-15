@@ -13,6 +13,9 @@ Setting up editor, RDD code for demographics
 3/13/2024 - Winton - 1hr
 Most dangerous date, utilization of groupby and sort
 
+3/13/2024 - Frank - 4hr
+Used frame data to create seasonal trend graphs.
+
 3/14/2024 - Luke - 1hr
 AreaCrime: Used Rdd to find count of the top crime areas and the ones with the least.
 What was used is similar to what was done in the labs and assignments.
@@ -26,3 +29,6 @@ the methods commonly discussed in class like:
 Split(), ReduceByKey(), SortBy(), Take()
 Finding this information was a little odd because not all crimes done
 involved a weapon. So a there were a lot of blank fields and mismatched data.
+
+3/13/2024 - Frank - 2hr
+Finished code and fixed up slide deck and report.
