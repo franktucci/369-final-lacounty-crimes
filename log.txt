@@ -25,4 +25,4 @@ Weapon Trends: Also used an RDD on the file to find the top common weapons used.
 the methods commonly discussed in class like:
 Split(), ReduceByKey(), SortBy(), Take()
 Finding this information was a little odd because not all crimes done
-involved a weapon. So a there were a lot of blank fields.
+involved a weapon. So a there were a lot of blank fields and mismatched data.
