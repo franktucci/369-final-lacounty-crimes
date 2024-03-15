@@ -12,3 +12,17 @@ Setting up editor, RDD code for demographics
 
 3/13/2024 - Winton - 1hr
 Most dangerous date, utilization of groupby and sort
+
+3/14/2024 - Luke - 1hr
+AreaCrime: Used Rdd to find count of the top crime areas and the ones with the least.
+What was used is similar to what was done in the labs and assignments.
+Split(), ReduceByKey(), SortBy(), Take()
+Learned where to and NOT to go in LA. This information was very useful.
+Scala makes it incredibly easy to find this information and visualize it.
+
+3/14/2024 - Luke - 1 hr
+Weapon Trends: Also used an RDD on the file to find the top common weapons used. I used
+the methods commonly discussed in class like:
+Split(), ReduceByKey(), SortBy(), Take()
+Finding this information was a little odd because not all crimes done
+involved a weapon. So a there were a lot of blank fields.
